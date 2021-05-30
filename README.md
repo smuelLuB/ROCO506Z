@@ -50,9 +50,9 @@ it is also responsible for the path planning and following the path trajectory, 
 		roslaunch turtlebot_navigation gmapping.demo
 
 To test the application:
-Click run on the coppeliaSim simulation. 
-Then once on RViz the turtlebot2 robot should appear.
-Add the Map, and Global and local paths. 
-Select a point on the map with the 2-d navigation tool and the robot should create a path and move towards the point on the map.  
+	Click run on the coppeliaSim simulation. 
+	Then once on RViz the turtlebot2 robot should appear.
+	Add the Map, and Global and local paths. 
+	Select a point on the map with the 2-D nav goal option, click on a point on the map and the arrow will set the direction that the robot will face when it completes the 	move. The robot should then create a path and move towards the point on the map.  
 
 
