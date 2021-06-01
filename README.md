@@ -1,5 +1,7 @@
 # ROCO506Z
 
+** Attention : Video demonstrations are very laggy because of using the remote desktop and virtual machines at the university** 
+
 This Github repository implements an application in ROS to allow autonomous naviagtion of turtlebot2 in a virtual robot simulator named coppeliaSim. 
 The application allows turtlebot2 to build maps of an unknown environement using scans from a laser range finder in the coppeliaSim simulation. 
 The SLAM package used allows for the robot to localise in the map generated in RVIZ. The user is able to click on a point on the map and then using 
